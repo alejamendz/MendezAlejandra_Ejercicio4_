@@ -133,4 +133,7 @@ else
         break;
 
     }
+
+    Console.WriteLine("Severidad: " + severidad);
+    Console.WriteLine("Respuesta recomendada: " +respuesta );
 }
